@@ -10,7 +10,9 @@ The Company Member Team Web Page showcases the team members of VeriTech Software
 Setup
 
 Clone the Repository: Clone the repository from your Git hosting platform:
+
 git clone https://github.com/kamanabhagyasri/Web-Page
+
 cd Web-Page
 
 Features
